@@ -1,4 +1,4 @@
-## Hi there 👋
+반갑습니다
 
 <!--
 **simsim7937/simsim7937** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
